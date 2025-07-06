@@ -57,7 +57,7 @@ fokus/
 ✅ Utilizar **event listeners** para interações dinâmicas  
 ✅ Controlar **áudios** com play, pause e volume  
 ✅ Mudar o **estilo da página** de forma interativa  
-✅ Trabalhar com **LocalStorage** para salvar dados
+✅ Trabalhar com **LocalStorage** para salvar dados <br>
 ✅ Criar timers e contadores usando `setInterval`
 
 ---
