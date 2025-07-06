@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido durante um curso da [Alura](https://www.alura.com.
 - ⏱️ **Timer Pomodoro** com modos: foco, descanso curto e descanso longo
 - 🎧 **Controle de música** com botão de play/pause e barra de volume
 - 🌈 **Alteração de cores e temas dinâmicos**
-- ✅ **Lista de tarefas interativa** com opção de adicionar, editar, marcar como concluído, limpar tarefas concluídas e limpar todas as tarefas
+- ✅ **Lista de tarefas interativa** com opção de adicionar, editar e limpar tarefas
 - 💾 **Persistência de dados com LocalStorage**
 - 🧪 Interface intuitiva e responsiva
 
